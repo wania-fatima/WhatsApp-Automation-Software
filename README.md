@@ -1,4 +1,4 @@
-#Group project made with https://github.com/asna-154
+Group project made with https://github.com/asna-154
 # WhatsApp Automation Software
 
 This project automates the process of sending messages to multiple contacts on WhatsApp. Users can load contacts automatically, select a contact, specify a message, and define the number of times the message should be sent. The software then sends the message the specified number of times to the chosen contact.
